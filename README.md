@@ -3,7 +3,7 @@ video stream detector
 
 vsd is an open source project for video stream detector.
 
-plan to support such feature:
+plan to support such features:
 
 1. pull video stream from rtmp, rtsp and so on
 
